@@ -7,13 +7,18 @@
 - ⚡ Currently learning: Machine Learning for data analysis and decision-making
 - 📫 How to reach me: https://www.linkedin.com/in/martavin-mcwilliams-43ba85237/
 
+  ---
 
 # Tools and Technology
 
 Here are some tools and techoolgies I use or am learning:
--Languauges: **Python, SQL, R**
--Libraries: **pandas, Numnpy, scikit-leaarn, matplotlib, seaborn, Tidyverse**
--Tools: Jupyter, mySQL, Githb, Rstudio
+
+-Languauges **Python**, **SQL**, **R**
+
+
+-Libraries: **pandas, Numpy, scikit-learn, matplotlib, seaborn, tidyverse**
+
+Tools: **Jupyter, mySQL, Github, rstudio**
 
 
 
